@@ -1,0 +1,8 @@
+## Interface: 11404
+## Title: ColorCodes
+## Author: Arnold
+## Notes: Why waist time playing the game?
+## Version: 1.0.0
+
+# Main
+ColorCodes.lua
